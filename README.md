@@ -5,4 +5,5 @@
 Olá bem vindo ao livro de receitas!! :call_me_hand:
 
 - Salsicha e arroz
-- strogonoff
+- strogonoff 
+- pavê
